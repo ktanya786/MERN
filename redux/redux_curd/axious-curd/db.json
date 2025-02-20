@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@g.com"
+    },
+    {
+      "id": 2,
+      "name": "Ram",
+      "email": "ram@g.com"
+    },
+    {
+      "id": 3,
+      "name": "Shyam",
+      "email": "Shyam@g.com"
+    },
+    {
+      "id": 4,
+      "name": "Rita",
+      "email": "rita@g.com"
+    },
+    {
+      "id": 5,
+      "name": "Hank",
+      "email": "hank@g.com"
+    },
+    {
+      "id": 6,
+      "name": "Giwa",
+      "email": "giwa@g.com"
+    },
+    {
+      "id": 7,
+      "name": "Homie",
+      "email": "homie@g.com"
+    },
+    {
+      "id": 8,
+      "name": "roise",
+      "email": "roise@g.com"
+    },
+    {
+      "id": "1512",
+      "name": "tanyah",
+      "email": "tan@yah.com"
+    }
+  ]
+}
